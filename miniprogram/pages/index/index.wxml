@@ -1,0 +1,4 @@
+<button class="button" bindtap="open">打开</button>
+
+<button class="button" bindtap="close">关闭</button>
+
